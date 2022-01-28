@@ -10,7 +10,7 @@ int main()
     Madho
     Dugu
     chintu
-    ye sab chutiya h */ 
+    ye sab chutiya nii h */ 
     cout<<"Rishabh Singh"<<endl;
     //Sinlge Line comments :- 
    //Ramnagar is my home Town 
